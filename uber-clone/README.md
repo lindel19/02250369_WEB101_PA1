@@ -29,6 +29,10 @@ Tablet → Adjusted spacing and font sizes
 Mobile → Stacked layout with full-width buttons
 
 i used Media queries to ensure the design adapts smoothly across devices
+## Implementation Approach ##
+I started by breaking the page into smaller components and building a static layout first.
+After that, I added styling and then improved the design by making it responsive.
+Reusable components like LocationInput helped reduce repetition and made the structure cleaner
 ## Resources used ##
 React (Vite)
 JavaScript (ES6)
